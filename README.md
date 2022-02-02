@@ -2,8 +2,8 @@
 
 vous voici sur ma page GitHub soyez le bienvenue 
 vous pouvez me contacter via ces réseaux :
-**Discord : 'Tronmax6 (soko)#0943'**
-**Telegram : '@tronmax6'**
+-**Discord :** 'Tronmax6 (soko)#0943'
+-**Telegram :** '@tronmax6'
 
 
 <!--
