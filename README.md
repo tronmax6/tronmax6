@@ -1,6 +1,10 @@
-### Hi there 👋
+### Bienvenue 👋
 
-ceci est mon compte pedagogique Github ! 
+vous voici sur ma page GitHub soyez le bienvenue 
+vous pouvez me contacter via ces réseaux :
+**Discord : 'Tronmax6 (soko)#0943'**
+**Telegram : '@tronmax6'**
+
 
 <!--
 **tronmax6/tronmax6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
