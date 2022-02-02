@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ceci est mon compte pedagogique Github ! 
+
 <!--
 **tronmax6/tronmax6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
